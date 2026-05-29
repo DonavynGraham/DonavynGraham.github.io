@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "README"
 title_separator          : "-"
 name                     : &name "Donavyn Graham"
-description              : &description "Resame"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+skill                    : &skill "Great at computer hardware able to do some chucks of coding more in python then java, along with that I can repair automoblies and make blueprints, and a great chef."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://DonavynGraham.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DonavynGraham.github.io"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I am a student at Richland High Intreested in teachnology as well in the engineering, automotiveam cooking, I am able to colabrate with other to make a successful project or be solo and still make a successful project but it will take a little more time, but over all I get along well with people and if needed I can take more of a leader role"
   location         : "Earth"
-  employer         : "Red Brick University"
+  education        : "Richland High School WA"
   uri              : # URL
   email            : "donavyn.graham@gmail.com" 
 
